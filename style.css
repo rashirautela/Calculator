@@ -60,8 +60,9 @@ input {
     margin-top: 25px;
     block-size: 100px;
     width: 425px;
-    text-align: left;
+    text-align: right;
     border: none;
     border-radius: 10px;
-    margin-left: 25px;
+    margin-left: 30px;
+    font-size: 3em;
 }
